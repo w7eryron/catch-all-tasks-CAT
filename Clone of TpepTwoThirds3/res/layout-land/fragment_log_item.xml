@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/log_item_title_label"
+        style="?android:listSeparatorTextViewStyle"
+        />
+    <EditText android:id="@+id/log_item_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/log_item_title_hint"
+        />
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/log_item_details_label"
+        style="?android:listSeparatorTextViewStyle"
+        />
+      <EditText android:id="@+id/log_item_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/log_item_details_hint"
+        />
+      
+    <LinearLayout
+    	android:layout_width="match_parent"
+   	 	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    
+        <EditText android:id="@+id/log_item_hours"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/log_item_hours_hint"
+        />
+       <EditText android:id="@+id/log_item_criteria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/log_item_criteria_hint"
+        />
+    
+    </LinearLayout>
+    
+     <LinearLayout
+    	android:layout_width="match_parent"
+   	 	android:layout_height="wrap_content"
+   	 	
+    	android:orientation="horizontal" >
+       
+    <Button android:id="@+id/log_item_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        />
+    <Button android:id="@+id/log_item_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/save_button"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        />
+    <Button android:id="@+id/log_item_photo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/photo_button"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        />
+    
+    
+    </LinearLayout>
+    
+</LinearLayout>
+</ScrollView>

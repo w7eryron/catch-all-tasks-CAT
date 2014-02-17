@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TpepTwo</string>
+    <string name="title_activity_log_item">LogItemActivity</string>
+    
+    <string name="log_item_title_label">Title</string>
+    <string name="log_item_title_hint">Enter a title for this new item.</string>
+    
+    <string name="log_item_details_label">Description</string>
+    <string name="log_item_details_hint">Enter a description for this new item.</string>
+    <string name="log_item_doc_link_hint">Enter link to your documentation here.</string>
+    
+    <string name="log_item_hours_hint">1.0</string>
+    <string name="log_item_criteria_hint">Criteria Number then short text</string>
+    
+    <string name="logItems_title">Log Items</string>
+    <string name="date_picker_title">Date Picker</string>
+    
+    <string name="photo_button">Photo</string>
+    <string name="photo_toast">Cick!</string>
+    
+    <string name="save_button">Save</string>
+    <string name="save_toast">Ka-Ching!</string>
+    
+    <string name="new_log_item">New</string>
+    
+    <string name="stats_item">Stats</string>
+    <string name="stats_toast">Working On It</string>
+    
+    <string name="toggle_item">TogSort</string>
+    <string name="toggle_toast">By Date only, so far. </string>
+    
+    <string name="send_item">Share</string>
+    <string name="send_toast">Anchors Away!</string>
+    
+    <string name="criteria_item">CriteriaList</string>
+    <string name="criteria_toast">Mark knows.</string>
+    
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle">If you see something, say something.</string>
+    <string name="delete_log_item">Delete Item</string>
+         
+    
+    
+</resources>
