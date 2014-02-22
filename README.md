@@ -14,11 +14,23 @@ February 2014
 
 an Android List/details App used to record evidence for evaluations
 
-Very closely follows the "Criminal Intent" emonstration App in "Big Nerd Ranch Android Programming" book. 
+Very closely follows the "Criminal Intent" demonstration App in "Big Nerd Ranch Android Programming" book. 
 
 currently only for my cell phone - samsung running froyo, ... might work on something else. ??
 
 ++++++++++++++++++++++++++++++++++++++++++++ 
+FUTURE:
+
+If I had the "code" variable up and running, then this one app could be used for recording activities to atribute to very different tasks:
+- TPEP evaluation criteria as orignally intended (code letter "t", and/or numbers)
+- Hours for CTE requirement (code letter "c")
+- hours for tripay (code letter "p")
+- hours for coaching (code letter "s")
+- hours for Staff Development (code letter "d")
+- 
+then I would want a sort and send feature for each. 
+
+++++++++++++++++++++++++++++++++++++++++++++
 
 Variables in "LogItem" object:
 
