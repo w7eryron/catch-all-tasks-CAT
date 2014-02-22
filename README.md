@@ -27,7 +27,6 @@ If I had the "code" variable up and running, then this one app could be used for
 - hours for tripay (code letter "p")
 - hours for coaching (code letter "s")
 - hours for Staff Development (code letter "d")
-- 
 then I would want a sort and send feature for each. 
 
 ++++++++++++++++++++++++++++++++++++++++++++
