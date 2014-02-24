@@ -23,11 +23,11 @@ public class LogItem {
 	private static final String JSON_PHOTO = "not yet";
 	
 private UUID mId;
-private String mTitle = "title";
-private String mDescription = "None yet";
-private String mCriteria = "2.1";
-private  double mCriteriaNum = 2.1;
-private String mHours = "1.0";
+private String mTitle;
+private String mDescription;
+private String mCriteria;
+private  double mCriteriaNum;
+private String mHours;
 private Date mDate;
 private String mDocTitle = "None at all";
 private String mDocLink = "not anymore";
